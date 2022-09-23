@@ -1,0 +1,51 @@
+.home .adm-list {
+  margin-bottom: 10px;
+}
+.home .adm-list .adm-list-header {
+  background-color: #fff;
+  width: 80px;
+  border-radius: 10px 10px 0 0;
+  box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.1);
+}
+.home .adm-list-item {
+  border-left: 5px solid #339999;
+}
+.home .title {
+  font-size: 17px;
+  font-weight: bold;
+}
+.home .description {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 15px;
+  color: #888;
+  margin: 3px 0;
+  max-width: 90vw;
+}
+.home .last-time {
+  color: #888;
+  font-size: 13px;
+}
+.home .tag {
+  float: right;
+  font-size: 12px;
+  color: #339999;
+  padding: 2px 3px;
+}
+.home .add-article {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #339999;
+  bottom: 60px;
+  right: 15px;
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.3);
+}
+.home .add-article .add-icon {
+  font-size: 30px;
+  font-weight: bold;
+  color: #fff;
+  margin: 5px;
+}

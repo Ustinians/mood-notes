@@ -1,0 +1,7 @@
+.articles-by-tag .adm-nav-bar {
+  position: fixed;
+  width: 100%;
+  height: 50px;
+  top: 0;
+  color: #fff;
+}
